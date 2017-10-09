@@ -19,10 +19,10 @@ function callMe() {
   return thisIsCrazy;
 }
 
-var name = "Kristin";
+var name
 function sayMyName() {
   // fix the code in here:
-    console.log(name);
+    console.log("Kristin");
 return name
   }
 }
