@@ -18,6 +18,8 @@ function callMe() {
     console.log("hey!!!");
   return thisIsCrazy;
 }
+function sayMyName(){
+  var name = "Cricky";
 
 
 function sayMy() {
